@@ -3,12 +3,14 @@ body {
 	margin: 0;
 	padding: 0
 }
+img {
+  width: 100%;
+}
 
 .container {
-	width: 100px;
+	width: 100%;
 	max-width: 980px;
 	margin:0 auto;
-
 }
 
 .body {
@@ -25,5 +27,16 @@ body {
 .shop {
 	position: relative;
 	float: left;
-	width: 30%;
+	width: 38%;
 }
+
+.hompage {
+}
+
+.call {
+}
+
+.ka {
+  padding: 5px 20px;
+}
+
