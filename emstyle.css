@@ -1,0 +1,29 @@
+body {
+	background-color: #E4E5E6;
+	margin: 0;
+	padding: 0
+}
+
+.container {
+	width: 100px;
+	max-width: 980px;
+	margin:0 auto;
+
+}
+
+.body {
+	margin: 10px 10px;
+}
+
+.text {
+	position: relative;
+	float: left;
+	width: 60%;
+	margin-right :2%;
+}
+
+.shop {
+	position: relative;
+	float: left;
+	width: 30%;
+}
